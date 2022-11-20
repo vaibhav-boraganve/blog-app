@@ -8,3 +8,4 @@ media
 .env
 .dockerignore
 docker-compose.debug.yml
+.vercel
